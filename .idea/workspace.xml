@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d719006f-3cdc-4324-ac11-be78977d1589" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-storybook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-storybook.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/.storybook/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/.storybook/preview-head.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/.storybook/preview-head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/.storybook/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/.storybook/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/jest.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/rollup.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/ResetCSS.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/ResetCSS.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/alert.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/alert.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/balanceinput.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/balanceinput.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/breadcrumbs.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/breadcrumbs.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/button.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/button.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/buttonmenu.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/buttonmenu.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/card.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/card.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/checkbox.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/checkbox.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/dropdown.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/dropdown.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/fallingbunnies.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/fallingbunnies.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/flex.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/flex.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/heading.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/heading.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/input.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/input.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/layouts.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/layouts.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/link.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/link.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/notificationdot.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/notificationdot.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/overlay.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/overlay.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/pancaketoggle.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/pancaketoggle.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/progress.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/progress.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/radio.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/radio.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/skeleton.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/skeleton.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/spinner.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/spinner.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/svg.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/svg.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/tabmenu.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/tabmenu.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/tag.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/tag.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/text.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/text.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/toggle.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/toggle.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/components/tokenimage.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/components/tokenimage.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/widgets/__snapshots__/menu.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/widgets/__snapshots__/menu.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/widgets/menu.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/widgets/menu.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/widgets/modal.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/widgets/modal.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/__tests__/widgets/walletModal.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/__tests__/widgets/walletModal.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Alert/Alert.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Alert/Alert.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Alert/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Alert/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Alert/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Alert/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Alert/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Alert/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Alert/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Alert/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BalanceInput/BalanceInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BalanceInput/BalanceInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BalanceInput/TextField.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BalanceInput/TextField.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BalanceInput/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BalanceInput/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BalanceInput/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BalanceInput/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BalanceInput/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BalanceInput/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BalanceInput/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BalanceInput/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BaseMenu/BaseMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BaseMenu/BaseMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BaseMenu/InlineMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BaseMenu/InlineMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BaseMenu/SubMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BaseMenu/SubMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BaseMenu/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BaseMenu/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BaseMenu/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BaseMenu/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BaseMenu/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BaseMenu/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BaseMenu/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BaseMenu/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNav/BottomNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNav/BottomNav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNav/constants.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNav/constants.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNav/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNav/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNav/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNav/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNav/mock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNav/mock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNav/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNav/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNav/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNav/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNavItem/BottomNavItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNavItem/BottomNavItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNavItem/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNavItem/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNavItem/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNavItem/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNavItem/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNavItem/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/BottomNavItem/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/BottomNavItem/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Box/Box.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Box/Box.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Box/Flex.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Box/Flex.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Box/Grid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Box/Grid.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Box/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Box/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Box/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Box/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Box/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Box/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Breadcrumbs/Breadcrumbs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Breadcrumbs/Breadcrumbs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Breadcrumbs/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Breadcrumbs/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Breadcrumbs/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Breadcrumbs/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Breadcrumbs/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Breadcrumbs/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/ExpandableButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/ExpandableButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/IconButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/IconButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/StyledButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/StyledButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Button/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Button/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ButtonMenu/ButtonMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ButtonMenu/ButtonMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ButtonMenu/ButtonMenuItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ButtonMenu/ButtonMenuItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ButtonMenu/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ButtonMenu/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ButtonMenu/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ButtonMenu/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ButtonMenu/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ButtonMenu/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/CakePrice/CakePrice.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/CakePrice/CakePrice.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/CakePrice/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/CakePrice/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/CakePrice/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/CakePrice/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/Card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/CardBody.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/CardBody.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/CardFooter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/CardFooter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/CardHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/CardHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/CardRibbon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/CardRibbon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/StyledCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/StyledCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Card/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Card/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Checkbox/Checkbox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Checkbox/Checkbox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Checkbox/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Checkbox/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Checkbox/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Checkbox/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Checkbox/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Checkbox/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Dropdown/Dropdown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Dropdown/Dropdown.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Dropdown/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Dropdown/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Dropdown/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Dropdown/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Dropdown/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Dropdown/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/DropdownMenu/DropdownMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/DropdownMenu/DropdownMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/DropdownMenu/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/DropdownMenu/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/DropdownMenu/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/DropdownMenu/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/DropdownMenu/mock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/DropdownMenu/mock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/DropdownMenu/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/DropdownMenu/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/DropdownMenu/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/DropdownMenu/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/FallingBunnies/FallingBunnies.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/FallingBunnies/FallingBunnies.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/FallingBunnies/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/FallingBunnies/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/FallingBunnies/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/FallingBunnies/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/FallingBunnies/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/FallingBunnies/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Footer/Components/SocialLinks.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Footer/Components/SocialLinks.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Footer/config.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Footer/config.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Footer/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Footer/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Footer/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Footer/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Footer/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Footer/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Heading/Heading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Heading/Heading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Heading/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Heading/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Heading/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Heading/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Heading/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Heading/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/BackgroundImage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/BackgroundImage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/Image.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/Image.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/Placeholder.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/Placeholder.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/ProfileAvatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/ProfileAvatar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/TokenImage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/TokenImage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/TokenPairImage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/TokenPairImage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/Wrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/Wrapper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/options.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/options.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/tokens.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/tokens.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Image/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Image/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Input/Input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Input/Input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Input/InputGroup.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Input/InputGroup.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Input/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Input/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Input/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Input/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Input/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Input/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/LangSelector/LangSelector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/LangSelector/LangSelector.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/LangSelector/MenuButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/LangSelector/MenuButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/LangSelector/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/LangSelector/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Layouts/BaseLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Layouts/BaseLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Layouts/CardsLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Layouts/CardsLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Layouts/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Layouts/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Layouts/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Layouts/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Link/Link.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Link/Link.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Link/LinkExternal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Link/LinkExternal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Link/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Link/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Link/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Link/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Link/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Link/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItem/MenuItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItem/MenuItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItem/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItem/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItem/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItem/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItem/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItem/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItem/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItem/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItems/MenuItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItems/MenuItems.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItems/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItems/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItems/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItems/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItems/mock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItems/mock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/MenuItems/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/MenuItems/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Message/Message.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Message/Message.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Message/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Message/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Message/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Message/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Message/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Message/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Message/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Message/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/NotificationDot/NotificationDot.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/NotificationDot/NotificationDot.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/NotificationDot/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/NotificationDot/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/NotificationDot/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/NotificationDot/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/NotificationDot/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/NotificationDot/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Overlay/Overlay.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Overlay/Overlay.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Overlay/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Overlay/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Overlay/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Overlay/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Overlay/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Overlay/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/PancakeToggle/PancakeToggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/PancakeToggle/PancakeToggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/PancakeToggle/StyledPancakeToggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/PancakeToggle/StyledPancakeToggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/PancakeToggle/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/PancakeToggle/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/PancakeToggle/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/PancakeToggle/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/PancakeToggle/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/PancakeToggle/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/PancakeToggle/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/PancakeToggle/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Progress/Progress.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Progress/Progress.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Progress/ProgressBunnyWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Progress/ProgressBunnyWrapper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Progress/StyledProgress.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Progress/StyledProgress.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Progress/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Progress/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Progress/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Progress/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Progress/themes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Progress/themes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Progress/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Progress/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Radio/Radio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Radio/Radio.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Radio/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Radio/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Radio/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Radio/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Radio/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Radio/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Radio/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Radio/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Skeleton/Skeleton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Skeleton/Skeleton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Skeleton/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Skeleton/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Skeleton/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Skeleton/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Skeleton/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Skeleton/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/Slider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/Slider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/svg/bunny-full.svg" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/svg/bunny-full.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/svg/bunnybutt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/svg/bunnybutt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/svg/bunnyhead-main.svg" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/svg/bunnyhead-main.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/svg/bunnyhead-max.svg" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/svg/bunnyhead-max.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Slider/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Slider/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Spinner/PanIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Spinner/PanIcon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Spinner/PancakeIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Spinner/PancakeIcon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Spinner/Spinner.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Spinner/Spinner.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Spinner/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Spinner/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Spinner/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Spinner/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Spinner/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Spinner/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Stepper/Step.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Stepper/Step.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Stepper/Stepper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Stepper/Stepper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Stepper/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Stepper/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Stepper/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Stepper/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Stepper/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Stepper/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/SubMenuItems/SubMenuItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/SubMenuItems/SubMenuItems.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/SubMenuItems/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/SubMenuItems/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/SubMenuItems/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/SubMenuItems/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/SubMenuItems/mock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/SubMenuItems/mock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/SubMenuItems/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/SubMenuItems/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/SubMenuItems/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/SubMenuItems/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/AnimatedIconComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/AnimatedIconComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/IconComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/IconComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Account.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Account.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/AccountFilled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/AccountFilled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Add.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Add.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowBack.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowBack.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowDown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowDown.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowDropDown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowDropDown.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowDropUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowDropUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowFirst.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowFirst.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowForward.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowForward.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowLast.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowLast.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ArrowUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ArrowUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/AutoRenew.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/AutoRenew.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Binance.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Binance.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/BinanceChain.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/BinanceChain.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Block.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Block.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/BnbUsdtPairToken.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/BnbUsdtPairToken.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/BscScan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/BscScan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/BunnyCards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/BunnyCards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/BunnyPlaceholder.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/BunnyPlaceholder.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Calculate.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Calculate.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Camera.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Camera.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/CardView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/CardView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Cards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Checkmark.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Checkmark.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/CheckmarkCircle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/CheckmarkCircle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/CheckmarkCircleFill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/CheckmarkCircleFill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ChevronDown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ChevronDown.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ChevronLeft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ChevronLeft.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ChevronRight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ChevronRight.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ChevronUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ChevronUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/CircleOutline.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/CircleOutline.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Close.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Close.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Cog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Cog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Coin98.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Coin98.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Community.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Community.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/CommunityFilled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/CommunityFilled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Copy.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Copy.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Crown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Crown.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Currency.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Currency.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Earn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Earn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/EarnFill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/EarnFill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/EarnFilled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/EarnFilled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Ellipsis.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Ellipsis.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Error.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Expand.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Expand.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Farm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Farm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Github.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Github.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Groups.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Groups.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Hamburger.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Hamburger.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/HamburgerClose.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/HamburgerClose.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Help.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Help.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/History.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/History.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Ifo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Ifo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Info.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Info.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Instagram.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Instagram.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Language.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Language.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/LanguageCurrency.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/LanguageCurrency.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/LaurelLeft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/LaurelLeft.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/LaurelRight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/LaurelRight.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ListView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ListView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/LogoRound.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/LogoRound.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/LogoWithText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/LogoWithText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Logout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Logout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MathWallet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MathWallet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MedalBronze.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MedalBronze.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MedalGold.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MedalGold.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MedalPurple.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MedalPurple.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MedalSilver.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MedalSilver.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MedalTeal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MedalTeal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Metamask.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Metamask.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Minus.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Minus.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Moon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Moon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/More.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/More.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MoreHorizontal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MoreHorizontal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/MoreVertical.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/MoreVertical.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Nft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Nft.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/NftFill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/NftFill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/NftFilled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/NftFilled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/NoProfileAvatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/NoProfileAvatar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/OpenNew.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/OpenNew.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/PancakeRound.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/PancakeRound.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Pancakes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Pancakes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Pencil.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Pencil.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/PlayCircleOutline.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/PlayCircleOutline.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/PocketWatch.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/PocketWatch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Pool.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Pool.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Predictions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Predictions.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/PresentCheck.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/PresentCheck.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/PresentNone.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/PresentNone.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/PresentWon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/PresentWon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Prize.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Prize.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ProgressBunny.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ProgressBunny.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Proposal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Proposal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Reddit.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Reddit.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Refresh.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Refresh.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Remove.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Remove.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Resources.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Resources.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/ResourcesFilled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/ResourcesFilled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/SafePal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/SafePal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Sell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Sell.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Share.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Share.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Shrink.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Shrink.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/SmallDot.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/SmallDot.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/StarFill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/StarFill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/StarLine.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/StarLine.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Sun.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Sun.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Swap.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Swap.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/SwapFill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/SwapFill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/SwapVert.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/SwapVert.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/SyncAlt.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/SyncAlt.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TeamBattle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TeamBattle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TeamPlayer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TeamPlayer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Telegram.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Telegram.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Testnet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Testnet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Ticket.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Ticket.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TicketFill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TicketFill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TicketRound.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TicketRound.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Timer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Timer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TokenPocket.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TokenPocket.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Trade.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Trade.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TradeFilled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TradeFilled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Trophy.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Trophy.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TrophyFill.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TrophyFill.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TrophyGold.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TrophyGold.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/TrustWallet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/TrustWallet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Tune.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Tune.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Twitter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Twitter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Verified.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Verified.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/VisibilityOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/VisibilityOff.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/VisibilityOn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/VisibilityOn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/VolumeOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/VolumeOff.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/VolumeUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/VolumeUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Vote.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Vote.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Wait.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Wait.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Wallet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Wallet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/WalletConnect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/WalletConnect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/WalletFilled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/WalletFilled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Icons/Warning.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Icons/Warning.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/Svg.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/Svg.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Svg/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Svg/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/TabMenu/Tab.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/TabMenu/Tab.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/TabMenu/TabMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/TabMenu/TabMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/TabMenu/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/TabMenu/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/TabMenu/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/TabMenu/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/TabMenu/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/TabMenu/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/Cell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/Cell.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/Table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/Table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/example/const.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/example/const.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/example/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/example/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/hooks.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/hooks.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Table/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Table/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tag/StyledTag.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tag/StyledTag.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tag/Tag.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tag/Tag.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tag/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tag/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tag/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tag/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tag/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tag/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tag/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tag/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Text/Text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Text/Text.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Text/TooltipText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Text/TooltipText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Text/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Text/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Text/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Text/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Text/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Text/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ThemeSwitcher/ThemeSwitcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ThemeSwitcher/ThemeSwitcher.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ThemeSwitcher/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ThemeSwitcher/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/ThemeSwitcher/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/ThemeSwitcher/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Timeline/InfoTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Timeline/InfoTooltip.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Timeline/Timeline.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Timeline/Timeline.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Timeline/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Timeline/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Timeline/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Timeline/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Timeline/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Timeline/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Timeline/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Timeline/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Toggle/StyledToggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Toggle/StyledToggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Toggle/Toggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Toggle/Toggle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Toggle/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Toggle/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Toggle/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Toggle/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Toggle/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Toggle/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Toggle/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Toggle/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tooltip/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tooltip/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/components/Tooltip/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/components/Tooltip/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useKonamiCheatCode.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useKonamiCheatCode.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useKonamiCheatCode.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useKonamiCheatCode.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useMatchBreakpoints.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useMatchBreakpoints.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useMatchBreakpoints.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useMatchBreakpoints.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useParticleBurst.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useParticleBurst.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useParticleBurst.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useParticleBurst.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useTooltip/StyledTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useTooltip/StyledTooltip.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useTooltip/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useTooltip/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useTooltip/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useTooltip/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useTooltip/useTooltip.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useTooltip/useTooltip.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/hooks/useTooltip/useTooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/hooks/useTooltip/useTooltip.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/styled.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/styled.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/testHelpers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/testHelpers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/theme/base.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/theme/base.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/theme/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/theme/colors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/theme/dark.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/theme/dark.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/theme/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/theme/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/theme/light.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/theme/light.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/theme/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/theme/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/util/getExternalLinkProps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/util/getExternalLinkProps.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/util/getThemeValue.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/util/getThemeValue.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/util/isTouchDevice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/util/isTouchDevice.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/Menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/Menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/components/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/components/Logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/components/UserMenu/MenuIcon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/components/UserMenu/MenuIcon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/components/UserMenu/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/components/UserMenu/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/components/UserMenu/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/components/UserMenu/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/components/UserMenu/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/components/UserMenu/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Menu/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Menu/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/Modal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/Modal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/ModalContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/ModalContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/styles.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/styles.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/Modal/useModal.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/Modal/useModal.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/AccountModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/AccountModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/ConnectModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/ConnectModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/CopyToClipboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/CopyToClipboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/WalletCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/WalletCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/config.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/config.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/index.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/index.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/src/widgets/WalletModal/useWalletModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/src/widgets/WalletModal/useWalletModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/svgTransform.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/svgTransform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pancake-uikit/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/dooda-uikit/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zdwzpVeb5uF7fUa39DlKLVuPwI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d719006f-3cdc-4324-ac11-be78977d1589" name="Default Changelist" comment="" />
+      <created>1634491537597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634491537597</updated>
+      <workItem from="1634491538860" duration="1135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1261" y="236" width="602" height="548" key="find.popup" timestamp="1634491553798">
+      <screen x="-1920" y="-30" width="1920" height="1080" />
+    </state>
+    <state x="-1261" y="236" width="602" height="548" key="find.popup/-1920.-30.1920.1080/0.0.1680.1050/-1399.1050.1920.1080@-1920.-30.1920.1080" timestamp="1634491553798" />
+  </component>
+</project>
